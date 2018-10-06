@@ -4,7 +4,7 @@ The ```client``` directory has the archives of frontend system with JavaScript E
 
 The ```Server``` directory has the files of backend server in NodeJS.
 
-````bash
+```bash
 # clone the project
 git clone git@github.com:Ian-FR/js-es6-i.git
 
