@@ -1,3 +1,7 @@
+# Project JS ES6 Walk Around
+
+This project serves to my studies with JavaScript ES6 features and english lang.
+
 ## Development
 
 The ```client``` directory has the archives of frontend system with JavaScript ES6 features.
