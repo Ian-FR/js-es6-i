@@ -13,5 +13,5 @@ The ```Server``` directory has the files of backend server in NodeJS.
 git clone git@github.com:Ian-FR/js-es6-i.git
 
 # cd into js-es6-i directory
-cd documentacao-gdoor
+cd js-es6-i
 ```
